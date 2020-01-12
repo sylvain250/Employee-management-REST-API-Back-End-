@@ -20,4 +20,4 @@ Restful‌ ‌API‌ ‌and‌ ‌database‌ ‌for‌ ‌an‌ ‌employee‌ 
 - PUT `/employee/:id/activate` Manager can activate an employee
 - PUT `/employee/:id/suspend` Manager can suspend an employee
 - DELETE `/employee/:id` Delete an employee
-- POST `/employee/sear` Users can view specific entry
+- POST `/employee/search` Users can view specific entry
